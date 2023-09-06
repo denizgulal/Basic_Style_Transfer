@@ -13,8 +13,8 @@
 
 * ### ***Results***
 <p float="left">
-  <img src="https://github.com/denizgulal/Basic_Style_Transfer/assets/91977648/6969ab98-a34c-43fa-b039-27ab7e2f973d" width="50%" />
-  <img src="https://github.com/denizgulal/Basic_Style_Transfer/assets/91977648/041138cb-1b3b-46cf-8d03-96b3969fb0a7 width="50%" />
+  <img src="https://github.com/denizgulal/Basic_Style_Transfer/assets/91977648/6969ab98-a34c-43fa-b039-27ab7e2f973d" width="49%" />
+  <img src="https://github.com/denizgulal/Basic_Style_Transfer/assets/91977648/041138cb-1b3b-46cf-8d03-96b3969fb0a7 width="49%" />
 </p>
 
 * ### Test
